@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Montserrat&family=Playfair+Display&family=Raleway&display=swap');
+
+.nav {
+    background-color: #BDB2FF;
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    color: #9BF6FF;
+    text-align: center;
+    padding: 15px 15px;
+    font-size: 20px;
+    margin-left: 30px;
+    font-family: 'Domine, Playfair Display, Serif';
+}
+
+.nav a:hover {
+    color: #CAFFBF;
+}
+
+.nav a.active {
+    color: #FFFFFC;
+}
+
+body {
+    background-color: #feffda;
+}
+
+h1 {
+    font-size: 35;
+    margin-left: 30px;
+    font-family: 'Domine, Playfair Display, Serif';
+    color: #BDB2FF;
+}
+
+h1, .headtext {
+    text-align: center;
+}
+
+.headtext {
+    font-size: 20px;
+    margin-left: 30px;
+    font-family: 'Montserrat, Raleway, sans serif';
+    color: #BDB2FF;
+}
+
+.section_head {
+    font-size: 30;
+    text-align: center;
+    font-family: 'Domine, Playfair Display, Serif';
+    color: #BDB2FF;
+}
+
+#writing .index {
+    width: 75%;
+}
+
+.storyhead {
+    font-size: 20px;
+    font-family: 'Montserrat, Raleway, sans serif';
+    color: #BDB2FF;
+}
+
+.stories, .design_work {
+    display: inline-block;
+    margin: 0%;
+}
+
+.design_work {
+    padding: 15px 15px;
+}
+
+#writing, #design {
+    text-align: center;
+    vertical-align: top;
+    display: flex;
+}
+
+#writing .index {
+    width: 75%;
+}
+
+#airlineimg {
+    width:50%;
+}
+
+#aboutme p {
+    font-size: 20px;
+    text-align: center;
+    padding: 45px 45px;
+    font-family: 'Montserrat, Raleway, sans serif';
+    color: #BDB2FF;
+}
+
+.longatl {
+    margin-left: 30px;
+    text-align: left;
+    display: flex;
+}
+
+.longatl p {
+    font-size: 20px;
+    padding: 20px 20px;
+    font-family: 'Montserrat, Raleway, sans serif';
+    color: #BDB2FF;
+}
+
+.collage {
+    display: inline-block;
+    text-align: center;
+}
+
+.collage p {
+    font-family: 'Montserrat, Raleway, sans serif';
+    font-size: 15px;
+    color: #BDB2FF;
+}
+
+.newss {
+    display: inline-block;
+    text-align: center
+}
+
+.newss p {
+    font-family: 'Montserrat, Raleway, sans serif';
+    font-size: 15px;
+    color: #BDB2FF;
+}
+
+.talkingdesign {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Montserrat, Raleway, sans serif';
+    color: #BDB2FF;
+}
